@@ -43,7 +43,7 @@ This project is being developed with the following technologies:
 - [Git](https://git-scm.com/)
 - [Node.js](https://nodejs.org/)
 - [Yarn](https://yarnpkg.com/)
-- Run the [API](https://github.com/mattheuseinloft/gobarber-api)
+- Run the [server](https://github.com/mattheuseinloft/gobarber-api#computer-how-to-run)
 
 ### Running the application
 From your command line:
