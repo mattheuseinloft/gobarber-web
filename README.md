@@ -32,10 +32,10 @@ This project is being developed with the following technologies:
 - [TypeScript](https://www.typescriptlang.org/): Programming language
 - [ESLint](https://eslint.org/), [Prettier](https://prettier.io/) & [EditorConfig](https://editorconfig.org/): Code standardization and formatting
 - [Styled Components](https://styled-components.com/)
-<!-- - [React Router DOM](https://www.npmjs.com/package/react-router-dom): Declarative Routing for React.js -->
-<!-- - [polished](https://polished.js.org/): A lightweight toolset for writing styles in JavaScript
 - [react-icons](https://react-icons.github.io/react-icons/)
-- [axios](https://www.npmjs.com/package/axios) -->
+- [polished](https://polished.js.org/): A lightweight toolset for writing styles in JavaScript
+<!-- - [React Router DOM](https://www.npmjs.com/package/react-router-dom): Declarative Routing for React.js -->
+<!-- - [axios](https://www.npmjs.com/package/axios) -->
 
 ## :computer: How To Run
 
