@@ -35,6 +35,7 @@ This project is being developed with the following technologies:
 - [react-icons](https://react-icons.github.io/react-icons/)
 - [polished](https://polished.js.org/): A lightweight toolset for writing styles in JavaScript
 - [Unform](https://github.com/Rocketseat/unform)
+- [yup](https://github.com/jquense/yup): Input validation
 <!-- - [React Router DOM](https://www.npmjs.com/package/react-router-dom): Declarative Routing for React.js -->
 <!-- - [axios](https://www.npmjs.com/package/axios) -->
 
