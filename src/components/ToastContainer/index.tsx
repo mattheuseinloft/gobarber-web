@@ -19,7 +19,7 @@ const ToastContainer: React.FC = () => {
         </button>
       </Toast>
 
-      <Toast type="sucess" hasDescription={false}>
+      <Toast type="success" hasDescription={false}>
         <FiAlertCircle size={20} />
 
         <div>
