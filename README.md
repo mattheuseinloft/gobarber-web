@@ -38,7 +38,7 @@ This project is being developed with the following technologies:
 - [yup](https://github.com/jquense/yup): Input validation
 - [axios](https://www.npmjs.com/package/axios)
 - [react-spring](https://www.react-spring.io/): Simple Animations in React
-<!-- - [React Router DOM](https://www.npmjs.com/package/react-router-dom): Declarative Routing for React.js -->
+- [React Router DOM](https://www.npmjs.com/package/react-router-dom): Declarative Routing for React.js
 
 ## :computer: How To Run
 
