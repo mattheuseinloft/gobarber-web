@@ -36,8 +36,9 @@ This project is being developed with the following technologies:
 - [polished](https://polished.js.org/): A lightweight toolset for writing styles in JavaScript
 - [Unform](https://github.com/Rocketseat/unform)
 - [yup](https://github.com/jquense/yup): Input validation
+- [axios](https://www.npmjs.com/package/axios)
+- [react-spring](https://www.react-spring.io/): Simple Animations in React
 <!-- - [React Router DOM](https://www.npmjs.com/package/react-router-dom): Declarative Routing for React.js -->
-<!-- - [axios](https://www.npmjs.com/package/axios) -->
 
 ## :computer: How To Run
 
