@@ -3,7 +3,13 @@
     src=".github/logo.svg"
     width="200px"
   />
+  <br>
+  GoBarber Web
 </h1>
+
+<h4 align="center">
+  💈ReactJS front-end for GoBarber, a barber scheduling application
+</h4>
 
 <p align="center">
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/mattheuseinloft/gobarber-web?color=%23FF9000">
@@ -46,7 +52,7 @@ This project is being developed with the following technologies:
 - [Git](https://git-scm.com/)
 - [Node.js](https://nodejs.org/)
 - [Yarn](https://yarnpkg.com/)
-- Run the [server](https://github.com/mattheuseinloft/gobarber-api#computer-how-to-run)
+- [Run the server](https://github.com/mattheuseinloft/gobarber-api#computer-how-to-run)
 
 ### Running the application
 From your command line:
